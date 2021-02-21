@@ -4,7 +4,6 @@
 #include <Servo.h>
 
 
-
 class Gimbal
 {
   public:
