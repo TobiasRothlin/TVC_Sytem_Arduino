@@ -9,8 +9,8 @@ Making a Thrust Vector Controll System for a moddel rocket. The System must be a
 ## Result:
 #### Hardware
 Final Hardware
-![Final Hardware](ImgAssets_Readme/HueArduino-1.jpg)
-![AutodeskFile](ImgAssets_Readme/HueArduino-1.jpg)
+![Final Hardware](ImgAssets_Readme/TVC-1.jpg)
+![AutodeskFile](ImgAssets_Readme/RocketGimbal_v1.png)
 
 ### Files in this Repo
 ```
